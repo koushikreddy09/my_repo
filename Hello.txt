@@ -1,2 +1,3 @@
 Hello World!
 more fun with git!
+This is the new added line
